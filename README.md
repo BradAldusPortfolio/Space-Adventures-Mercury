@@ -16,3 +16,6 @@
 * Piskel (Sprites/Animations)
 * Krita
 
+## Trailer
+
+https://www.youtube.com/watch?v=18e2Ehl4yig
