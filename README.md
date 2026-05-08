@@ -1,4 +1,5 @@
-## Space-Adventures-Mercury
+## Space-Adventures-Mercury <img width="49.8" height="49.8" alt="MercuryOuterSpaceGIF" src="https://github.com/user-attachments/assets/904ef51d-fd2f-41f3-a0cd-b9075fc3428b" />
+
 
 🚀 Space Adventures is the very first game I designed and published under my studio, Simian Studios LTD.
 
