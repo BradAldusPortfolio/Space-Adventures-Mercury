@@ -1,3 +1,5 @@
+<img width="300" height="300" alt="Mercury_300x300" src="https://github.com/user-attachments/assets/f47c9288-557d-4eb9-a536-5b97354dfe6b" />
+
 ## Space-Adventures-Mercury <img width="49.8" height="49.8" alt="MercuryOuterSpaceGIF" src="https://github.com/user-attachments/assets/904ef51d-fd2f-41f3-a0cd-b9075fc3428b" />
 
 
