@@ -9,3 +9,10 @@
 🎮 I also had the amazing opportunity to work alongside Xbox to bring Space Adventures to their systems, making the game available for players on console to enjoy.
 
 ✨ No two planets — or levels — are ever the same, making every adventure feel fresh, fun, and full of surprises!
+
+## Softwares
+
+* Unreal Engine
+* Piskel (Sprites/Animations)
+* Krita
+
