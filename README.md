@@ -22,6 +22,7 @@
 ## Screenshots
 
 <img width="1270" height="826" alt="ss1" src="https://github.com/user-attachments/assets/fa9c8810-f6b6-42bc-8db6-3891ab512c12" />
+##
 <img width="1265" height="810" alt="ss2" src="https://github.com/user-attachments/assets/a0737e0b-22c3-49b7-b2a3-df523ecd9127" />
 
 ## Trailer
